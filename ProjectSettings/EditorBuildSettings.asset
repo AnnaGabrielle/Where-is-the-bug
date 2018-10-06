@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 0270affc8e4069f42897b221a1921af4
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 335b34ee21eadc1498345854998245ab
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/LoseScene.unity
+    guid: 1a260fdfa6ba1154e973e764649f276b
+  - enabled: 1
+    path: Assets/Scenes/HowToPlayScene.unity
+    guid: be72e6df4f891fe47b4b022aaef47d35
+  - enabled: 1
+    path: Assets/Scenes/WinEndScene.unity
+    guid: ff50c41816ae45b4aaf41c57e62c1f3c
+  - enabled: 1
+    path: Assets/Scenes/WinFirstScene.unity
+    guid: deb1dc8198b9d0a4f8a0d7dee5bb11bf
+  - enabled: 1
+    path: Assets/Scenes/WinThirdScene.unity
+    guid: 9b483fec3a9774d48b76c6bd26742d8a
+  - enabled: 1
+    path: Assets/Scenes/WinSecondScene.unity
+    guid: fa890f5405088554686e8adf78ff17d3
+  - enabled: 1
+    path: Assets/Scenes/PreGameScene.unity
+    guid: d88061700535d9d48b44ea0615ce9577
+  m_configObjects: {}
